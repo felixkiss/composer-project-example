@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "b93107634d9033e5940705fc8fd15cc0",
+    "packages": [
+        {
+            "name": "felixkiss/dependency-example",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/felixkiss/composer-dependency-example.git",
+                "reference": "a206ab82829961e18619e53532648c12cd0bc78b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/felixkiss/composer-dependency-example/zipball/a206ab82829961e18619e53532648c12cd0bc78b",
+                "reference": "a206ab82829961e18619e53532648c12cd0bc78b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Felix Kiss",
+                    "email": "felix@felixkiss.com"
+                }
+            ],
+            "time": "2015-02-19 00:51:08"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

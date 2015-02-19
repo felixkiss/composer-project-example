@@ -1,0 +1,5 @@
+{
+    "require": {
+        "felixkiss/dependency-example": "~1.0"
+    }
+}
